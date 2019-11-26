@@ -1,0 +1,12 @@
+﻿<Weavers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="FodyWeavers.xsd">
+  <Costura>
+  <Unmanaged32Assemblies>
+      opencv_ffmpeg400
+      OpenCvSharpExtern
+    </Unmanaged32Assemblies>
+    <Unmanaged64Assemblies>
+      opencv_ffmpeg400_64
+      OpenCvSharpExtern
+    </Unmanaged64Assemblies>
+  </Costura>
+</Weavers>
